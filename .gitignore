@@ -1,0 +1,13 @@
+
+# Archivos temporales de Roblox
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Archivos temporales
+test.rbxlx
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
