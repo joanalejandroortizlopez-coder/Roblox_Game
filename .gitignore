@@ -11,3 +11,4 @@ test.rbxlx
 # Archivos del sistema operativo
 Thumbs.db
 .DS_Store
+sourcemap.json
